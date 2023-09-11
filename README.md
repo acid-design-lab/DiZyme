@@ -9,3 +9,5 @@ requests (explorative, detailed and customised) capable of predicting multiple c
 Michaelis-Menten (Km, mM) constant with R<sup>2</sup> 0.75 and the maximum reaction rate (Vmax, mM/s) with R<sup>2</sup>
 0.77.<br><br>
 Nanozymes are a unique class of materials that have already demonstrated a number of useful properties for applications in biomedicine, biosensing, clinical diagnostics, environmental monitoring and beyond. At the same time, the search for new candidates is usually associated with a large amount of tedious experimental work. To simplify experimental screening, we were the first to develop a more convenient, machine learning (ML) driven approach to search for new candidates and released the web platform, called DiZyme. 
+
+![alt text](https://github.com/acid-design-lab/DiZyme2.0/blob/main/idea.jpg)
