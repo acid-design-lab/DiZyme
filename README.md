@@ -1,6 +1,5 @@
 # AI-Powered Knowledge Base Enables Transparent Prediction of Nanozyme Multiple Catalytic Activity
-<a href='https://dizyme.aicidlab.itmo.ru/)'>The DiZyme </a> 
-- web-resource for rational design of nanozymes using machine learning algorithms. <br>
+<a href='https://dizyme.aicidlab.itmo.ru/)'>The DiZyme </a> - web-resource for rational design of nanozymes using machine learning algorithms. <br>
 It contains a unique expandable database of nanozymes with links to original articles, an
 interactive clickable tool for its visualization, and a machine learning models for various levels of user
 requests (explorative, detailed and customised) capable of predicting multiple catalytic activity represented as the
